@@ -351,3 +351,8 @@ color: #002770;
         font-size: 30px;
     }
 }
+footer{
+    position: absolute;
+    bottom: 0%;
+    right: 10px;
+}
